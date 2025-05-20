@@ -1,3 +1,5 @@
 /home/robert/CLionProjects/OOCatcher/cmake-build-debug/CMakeFiles/OOCatcher.dir
+/home/robert/CLionProjects/OOCatcher/cmake-build-debug/CMakeFiles/SnowballMode.dir
+/home/robert/CLionProjects/OOCatcher/cmake-build-debug/CMakeFiles/WalkerMode.dir
 /home/robert/CLionProjects/OOCatcher/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/robert/CLionProjects/OOCatcher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
